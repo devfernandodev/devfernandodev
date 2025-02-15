@@ -1,21 +1,25 @@
-### Desenvolvedor dw Software 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfeferrari-ti/)
+# 👋 Olá! Eu sou o Fernando
 
-### Portifolio
-[![Social](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://devfernandodev.github.io/portifolio/)
+💻 Desenvolvedor de Software | 🚀 Apaixonado por Programação
 
-### Tecnologias
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfernandodev&layout=compact)
+## 🚀 Sobre mim  
+🎓 Último período de **Análise e Desenvolvimento de Sistemas**  
+🔹 Apaixonado por **desenvolvimento de software**  
+🔹 Focado em aprender **Node.js** e outras tecnologias de backend  
+🔹 Buscando aprimorar habilidades de **desenvolvimento ágil** e **boas práticas de programação**  
 
-### Tecnologias que utilizo
+## 🛠️ Tecnologias e Ferramentas  
+🔹 **Linguagens:** Java, Python, JavaScript (Node.js, Angular)  
+🔹 **Frameworks e Ferramentas:** VS Code  
+🔹 **Banco de Dados:** MySQL, Oracle, SQL Server  
+🔹 **DevOps:** Docker 
+🔹 **Metodologias Ágeis:** Scrum
 
+## 📊 GitHub Stats  
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfernandodev&show_icons=true&theme=radical)  
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Tecnologias](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tecnologias](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tecnologias](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-
-
+## 📫 Entre em contato comigo  
+📩 Email: [luisfeferrari.ti@gmail.com](mailto:luisfeferrari.ti@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/luisfeferrari](www.linkedin.com/in/luisfeferrari)  
+🔗 Portfólio: [github.com/devfernandodev/portifolio](https://github.com/devfernandodev/portifolio)
 
